@@ -1,0 +1,1 @@
+Programma in c multiclient dove il server manda una operazione da fare e il client deve cercare di rispondere correttamente 
